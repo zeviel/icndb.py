@@ -1,5 +1,5 @@
 # icndb.py
-Web-API for [icndb.com](www.icndb.com) website with jokes about chucknorris
+Web-API for [icndb.com](https://www.icndb.com) website with jokes about chucknorris
 
 ## Example
 ```python3
