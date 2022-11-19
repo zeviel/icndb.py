@@ -1,6 +1,6 @@
 from requests import get
 
-class ICNDb:
+class ICNDB:
 	def __init__(self) -> None:
 		self.api = "https://api.icndb.com"
 		self.headers = {
