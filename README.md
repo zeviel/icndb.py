@@ -4,7 +4,7 @@ Web-API for [icndb.com](https://www.icndb.com) website with jokes about chucknor
 ## Example
 ```python3
 import icndb
-icndb = icndb.ICNDb()
+icndb = icndb.ICNDB()
 joke = icndb.generate_random_joke()["value"]["joke"]
-print(f"-- Joke::: {joke}")
+print(joke)
 ```
